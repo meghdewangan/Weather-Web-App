@@ -1,4 +1,4 @@
-# Guess The Word Game
+# Weather Web App
 
 ## Using Technology : HTML, CSS, JAVASCRIPT & API-OpenWeatherMap  
 
